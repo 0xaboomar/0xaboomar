@@ -23,7 +23,7 @@
   </div>
   
 
-## Contributions & Projects
+## Open Source Contributions
 - **[Open Transit Software Foundation - OneBusAway](https://github.com/OneBusAway)**
   -  [OneBusAway-Application-Modules](https://github.com/OneBusAway/onebusaway-application-modules):
 Extended the Java-based Metrics API with new metrics to support the standalone Watchdog service.
@@ -32,11 +32,6 @@ Extended the Java-based Metrics API with new metrics to support the standalone W
 Improved Go-based backend testing by refactoring core logic and relocating unit tests to enhance modularity and raise test coverage to 74%.
 
 - **[Invesalius3](https://github.com/invesalius/invesalius3)**: Implemented a base solution for progress bar functionality and applied it to the File/Save operation.
-- **[Gitlet](https://github.com/Abo-Omar-74/gitlet)**: Built a Java-based distributed version control system implementing core Git functionalities with persistence and data integrity.
-- **[httpServe](https://github.com/Abo-Omar-74/httpServer)**: Built an HTTP server in Go, incorporating custom APIs, middleware, and database integration using the standard library.
-- **[Automotive E-commerce Platform](https://github.com/Abo-Omar-74/AutomotiveEcommercePlatform)**: Created a full-featured ASP.NET website for automotive product shopping, trader management, and car inventory handling.
-- **[Pathfinding Algorithm Visualizer](https://github.com/Abo-Omar-74/Pathfinding-Algorithm-Visualizer)**: Developed a JavaScript tool for visualizing BFS, DFS, and Dijkstra's algorithms.
-
 
 ### Contribution List
 
@@ -50,6 +45,12 @@ Improved Go-based backend testing by refactoring core logic and relocating unit 
 | [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)                                  | Migrated and added unit tests using Go to improve metrics package coverage.                                                                                            | Test/Enh.             | [PR #46](https://github.com/OneBusAway/watchdog/pull/46), [Issue #45](https://github.com/OneBusAway/watchdog/issues/45), [Issue #47](https://github.com/OneBusAway/watchdog/issues/47) | ![Merged](https://camo.githubusercontent.com/198470a4c39007f3a895083626b44e38c683e73841a855946ea5c10fe4b744a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d65726765642d383935376535)<br> |
 | ↳                                                                                              | Refactored main logic into testable helpers using Go and added unit tests.                                                                                             | Refactor+Test/Enh<br> | [PR #53](https://github.com/OneBusAway/watchdog/pull/53), [Issue #45](https://github.com/OneBusAway/watchdog/issues/45)                                                                | ![Merged](https://camo.githubusercontent.com/198470a4c39007f3a895083626b44e38c683e73841a855946ea5c10fe4b744a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d65726765642d383935376535)<br> |
 
+## Projects
+
+- **[Gitlet](https://github.com/Abo-Omar-74/gitlet)**: Built a Java-based distributed version control system implementing core Git functionalities with persistence and data integrity.
+- **[httpServe](https://github.com/Abo-Omar-74/httpServer)**: Built an HTTP server in Go, incorporating custom APIs, middleware, and database integration using the standard library.
+- **[Automotive E-commerce Platform](https://github.com/Abo-Omar-74/AutomotiveEcommercePlatform)**: Created a full-featured ASP.NET website for automotive product shopping, trader management, and car inventory handling.
+- **[Pathfinding Algorithm Visualizer](https://github.com/Abo-Omar-74/Pathfinding-Algorithm-Visualizer)**: Developed a JavaScript tool for visualizing BFS, DFS, and Dijkstra's algorithms.
 
 <h2 align="left">Competitive Programming Profiles</h2>
 <div align="left">
