@@ -27,7 +27,7 @@
 
 ### Google Summer of Code
 
-I am a Google Summer of Code 2025 contributor with the **Open Transit Software Foundation (OTSF)**, contributing to **OneBusAway** by developing a Go-based monitoring service that delivers accurate and timely transit data. It continuously tracks system health, data quality, and resource usage, and exposes a wide range of Prometheus metrics.
+I was a Google Summer of Code 2025 contributor with the **Open Transit Software Foundation (OTSF)**, contributing to **OneBusAway** by developing a Go-based monitoring service that delivers accurate and timely transit data. It continuously tracks system health, data quality, and resource usage, and exposes a wide range of Prometheus metrics.
 
 Here’s a wrap-up report with more details about the project: [Final report](https://gist.github.com/0xaboomar/cc4499a50583a57a6926c5b42455fd8f). Below is the list of my contributions:
 
